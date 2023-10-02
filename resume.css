@@ -1,0 +1,58 @@
+html, body {
+    background-color: rgb(56, 55, 55);
+    margin: 0%;
+    padding: 0%;
+}
+
+.sectionOne {
+    border: 2px solid snow;
+    align-self: auto;
+    padding: 0;
+    margin: 0%;
+}
+
+
+photoSection {
+    border-width: 2px solid snow;
+    box-align: right;
+    padding: 0%;
+    margin: 0;
+    float: top-left;
+}
+
+
+.info > ul{
+    border: 2px solid snow;
+    padding: 0% 10% 0% 10%;
+    margin: 0%;
+    float: top-right;
+    
+}
+
+.mySummary {
+    border: 2px solid snow;
+    align-self: center;
+    margin: 0%;
+}
+
+
+.employEducation {
+    border: 2px solid snow;
+    align-items: flex-end;
+    float: left;
+    clear: left;
+    padding: 0% 20% 50% 0%;
+    margin: 0%;
+    text-align: left;
+}
+
+
+.skills {
+    border: 2px solid snow;
+    align-items: baseline;
+    float: right;
+    clear: right;
+    padding: 0% 10% 50% 50%;
+    margin: 0;
+}
+
